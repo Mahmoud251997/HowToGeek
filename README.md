@@ -1,1 +1,1 @@
-# HowToGeek
+# week 1 Workshop
